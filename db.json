@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "message": "Changed network card on server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-10-28T19:37:22.370Z",
+      "id": 5
+    },
+    {
+      "message": "Hard drive failed in server 1200",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-10-28T19:39:02.049Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
