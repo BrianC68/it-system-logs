@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 3,
       "message": "1122 wireless down",
-      "attention": true,
+      "attention": false,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "date": "2020-10-29T14:28:20.213Z"
     },
     {
       "id": 4,
@@ -15,18 +15,18 @@
       "date": "2019-05-31T19:57:35.544Z"
     },
     {
+      "id": 5,
       "message": "Changed network card on server 007",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-10-28T19:37:22.370Z",
-      "id": 5
+      "tech": "John Doe",
+      "date": "2020-10-29T15:23:51.115Z"
     },
     {
-      "message": "Hard drive failed in server 1200",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-10-28T19:39:02.049Z",
-      "id": 6
+      "id": 6,
+      "message": "Hard drive failed in server 1200(Fixed)",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-10-29T14:28:58.397Z"
     }
   ],
   "techs": [
